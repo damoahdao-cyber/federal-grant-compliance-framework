@@ -583,9 +583,7 @@ WithUnify. (2025). 7 essential grant management best practices for 2025. Retriev
 
 ---
 
-*END OF ARTICLE*
 
-**Total Word Count**: ~8,500 words (appropriate for journals like Implementation Science, Public Administration Review, Nonprofit and Voluntary Sector Quarterly, or Administration & Society)
 
 **Figure/Table Placeholders**: 
 - Figure 1: Integrated Theoretical Model (conceptual diagram)
