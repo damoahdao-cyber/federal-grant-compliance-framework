@@ -567,19 +567,14 @@ WithUnify. (2025). 7 essential grant management best practices for 2025. Retriev
 
 ## AUTHOR NOTE
 
-[Author and institutional affiliations]
+**Author**: David Amoah Oduro, Gulf of Maine Research Institute
 
-**Correspondence**: [Email]
-
-**Acknowledgments**: [If applicable]
-
-**Funding**: [Grant information if applicable]
+**Correspondence**: damoah.dao@gmail.com
 
 **Conflicts of Interest**: None declared. The framework will be released under Creative Commons license as a public good.
 
 **Data Availability**: Upon completion of pilot evaluation, de-identified data and analysis code will be published in an open repository with appropriate documentation.
 
-**Preregistration**: Study protocol will be preregistered at [registry] prior to pilot site recruitment.
 
 ---
 
