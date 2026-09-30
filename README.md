@@ -12,35 +12,48 @@ The project is designed around practical guides, editable templates, and checkli
 
 ## Current development status
 
-This project is in development. The repository currently contains a framework design manuscript, contribution guidelines, a code of conduct, and an archive of the original setup materials.
+This project is in development. [Domain 1: Financial Management and Reporting](framework/01-financial-management/README.md) now contains an initial financial management starter workbook, instructions, and seven supporting guides or templates.
 
-Domain guides, operational templates, worked examples, and implementation materials are planned additions. The seven domains below describe the intended scope, rather than a completed collection of tools.
+The workbook contains independent schedules for budget review, portfolio balances, SEFA preparation, and shared direct cost allocation. All seeded examples are synthetic. Calculation checks and worksheet layout review are recorded in the [development record](docs/development-record.md).
 
-Practitioner review and pilot evaluation are planned. This README does not claim completed validation, documented adoption, or measured compliance improvements.
+These checks establish limited calculation and document checks, rather than independent validation or demonstrated compliance outcomes. Practitioner review, operational testing, and pilot evaluation remain pending. No adoption or external review is claimed.
 
-The earlier development label was `0.1.0-alpha`. It describes an early development stage, rather than a published GitHub release.
+Domains 2 through 7 currently contain planning pages. A folder or planning page does not constitute a completed domain.
 
-## Planned framework domains
+The earlier development label was `0.1.0-alpha`. No formal release is created by this documentation and resource update.
 
-| Domain | Intended resources |
+## Browse the framework
+
+See the [framework directory](framework/README.md) for the seven domains and their current status.
+
+| Domain | Available content |
 | --- | --- |
-| 1. Financial Management and Reporting | Grant portfolio tracking, Schedule of Expenditures of Federal Awards (SEFA) preparation, budget monitoring, cost allocation, and cash management procedures |
-| 2. Compliance Policies and Procedures | Policies addressing Uniform Guidance, allowable costs, procurement, personnel costs, travel, conflicts of interest, and records retention |
-| 3. Eligibility Verification and Program Management | Eligibility determination, participant file management, and service delivery documentation |
-| 4. Reporting and Performance Management | Reporting calendars, Federal Financial Report (SF-425) preparation, performance reporting, and prior approval tracking |
-| 5. Subrecipient Monitoring | Subrecipient and contractor determination, risk assessment, monitoring plans, and subaward documentation |
-| 6. Audit Readiness and Internal Controls | Audit preparation, internal control documentation, segregation of duties, grant file organization, and closeout procedures |
-| 7. Training and Capacity Building | Role-based training, employee onboarding, reference materials, and quick-reference guides |
+| [1. Financial Management and Reporting](framework/01-financial-management/README.md) | Initial financial workbook, instructions, and seven supporting guides or templates. Practitioner review pending. |
+| [2. Compliance Policies and Procedures](framework/02-compliance-policies/README.md) | Development scope only |
+| [3. Eligibility Verification and Program Management](framework/03-eligibility-program-management/README.md) | Development scope only |
+| [4. Reporting and Performance Management](framework/04-reporting-performance/README.md) | Development scope only |
+| [5. Subrecipient Monitoring](framework/05-subrecipient-monitoring/README.md) | Development scope only |
+| [6. Audit Readiness and Internal Controls](framework/06-audit-internal-controls/README.md) | Development scope only |
+| [7. Training and Capacity Building](framework/07-training-capacity-building/README.md) | Development scope only |
 
-## Browse the current materials
+## Start with Domain 1
 
-- [Framework design manuscript](FGCF_journal_article.md): proposed architecture, research foundation, and evaluation approach.
-- [Contribution guidelines](CONTRIBUTING.md): how to propose improvements and submit materials.
-- [Code of conduct](CODE_OF_CONDUCT.md): participation standards and reporting contacts.
-- [License](LICENSE): Creative Commons Attribution 4.0 International terms.
-- [Archived setup materials](docs/project-setup/README.md): original upload package retained for reference.
+1. Read the [Domain 1 overview](framework/01-financial-management/README.md) and [workbook instructions](framework/01-financial-management/workbook-guide.md).
+2. Download the [financial management starter workbook](framework/01-financial-management/tools/financial-management-starter.xlsx).
+3. Replace the synthetic inputs, complete the award register, and reconcile to authorized source records.
+4. Review applicable award terms and document preparer and reviewer sign-off.
+5. Submit proposed corrections or feedback through GitHub Issues.
 
-The manuscript is development documentation. Its presence in this repository does not establish journal publication or completed empirical validation.
+## Other project documents
+
+- [Contribution guidelines](CONTRIBUTING.md).
+- [Code of conduct](CODE_OF_CONDUCT.md).
+- [License](LICENSE).
+- [Development and claims review record](docs/development-record.md).
+- [Archived setup materials](docs/project-setup/README.md).
+- [Framework design manuscript](FGCF_journal_article.md).
+
+The separate design manuscript remains a draft requiring its own factual and publication-status review. Its statements about validation, statistics, and outcomes are not verified project evidence. It should not be treated as proof of completed research or journal publication.
 
 ## Intended users
 
@@ -51,9 +64,9 @@ The manuscript is development documentation. Its presence in this repository doe
 
 ## Development priorities
 
-1. Publish domain guides and editable resources.
-2. Add instructions and worked examples using synthetic data.
-3. Map resources to relevant federal requirements.
+1. Expand the initial Domain 1 resources and develop the remaining domain materials.
+2. Extend instructions and examples as resources are added.
+3. Expand regulatory mapping and review resource citations as requirements change.
 4. Seek practitioner feedback and revise the materials.
 5. Conduct a documented pilot evaluation before reporting effectiveness results.
 
@@ -90,3 +103,4 @@ Email: damoah.dao@gmail.com
 Questions and feedback: [GitHub Issues](https://github.com/damoahdao-cyber/federal-grant-compliance-framework/issues)
 
 Last updated: September 30, 2026.
+

@@ -1,0 +1,18 @@
+# Domain 7: Training and Capacity Building
+
+Status: planned. This page describes development scope. No operational domain resources are published in this folder.
+
+## Intended scope
+
+Role-based learning materials, onboarding resources, reference guides, and practical exercises.
+
+Future training will identify intended audiences, learning objectives, resource prerequisites, and the date of regulatory review.
+
+## Work required before publication
+
+Prepare original materials, cite applicable requirements, check examples, and seek practitioner feedback. Document the checks performed and distinguish them from independent review or pilot evaluation.
+
+See the [framework directory](../README.md), [Domain 1](../01-financial-management/README.md), and [contribution guidelines](../../CONTRIBUTING.md).
+
+Project lead: David Amoah Oduro. [CC BY 4.0](../../LICENSE).
+
