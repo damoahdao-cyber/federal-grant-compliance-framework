@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use these materials, cite the framework and identify the commit or published release used."
+type: dataset
+title: "Federal Grant Compliance Framework (FGCF)"
+authors:
+  - family-names: "Oduro"
+    given-names: "David Amoah"
+version: "0.1.0-alpha"
+license: CC-BY-4.0
+repository-code: "https://github.com/damoahdao-cyber/federal-grant-compliance-framework"
+url: "https://github.com/damoahdao-cyber/federal-grant-compliance-framework"
+abstract: "An openly licensed framework in development for nonprofit and research organizations administering U.S. federal awards. Initial financial management resources and synthetic examples are available. Independent practitioner review and pilot evaluation remain pending."
+keywords:
+  - "federal grants"
+  - "nonprofit financial management"
+  - "grant compliance"
+  - "Uniform Guidance"

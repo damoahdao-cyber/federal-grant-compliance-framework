@@ -18,7 +18,7 @@ The original upload archive contained setup documents and an earlier manuscript.
 | Reviewed by grants professionals, auditors, or federal program officers | Not claimed without documented independent review. |
 | Pilot testing with 12 to 15 organizations | No recruitment commitments or completed pilot are claimed. Evaluation remains planned. |
 | Demonstrated reductions in audit findings or compliance burden | Not claimed. No outcome study is documented. |
-| Published research article | The separate manuscript is identified as a draft requiring its own factual and publication-status review. |
+| Published research article | The separate manuscript has been revised as a design working paper and proposed evaluation. No journal publication is claimed. |
 | Formal alpha release | The historical development label is distinguished from a published GitHub release. |
 | External adoption or endorsement | Not claimed. Synthetic examples do not represent organizational adoption. |
 
@@ -55,3 +55,12 @@ Record the reviewer, date, resource version, specific feedback, and resulting re
 
 [Main README](../README.md). [Domain 1 resources](../framework/01-financial-management/README.md). [CC BY 4.0](../LICENSE).
 
+
+
+## Documentation and manuscript correction - September 30, 2026
+
+Added the status register, citation metadata, synthetic worked examples, roadmap, proposed repository metadata, prepared release notes, and practitioner review materials. The citation identifies the current development version and omits a release date because formal publication is pending.
+
+Revised the manuscript to remove unsupported audit statistics, price estimates, survey or interview claims, empirical validation claims, assessment-instrument validation, pilot participation, current advisory council claims, and effectiveness predictions presented as findings. Replaced the bibliography with a short set of verified conceptual and primary regulatory sources relevant to the revised text. The original manuscript remains in Git history. No new study or independent review is claimed.
+
+The three worked examples use the checked workbook figures. The SEFA example uses two seeded awards and a separate hypothetical fiscal year. Markdown links, citation structure, numerical consistency, and saved repository file hashes were checked for this update. These checks remain maintainer development checks.

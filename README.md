@@ -20,7 +20,7 @@ These checks establish limited calculation and document checks, rather than inde
 
 Domains 2 through 7 currently contain planning pages. A folder or planning page does not constitute a completed domain.
 
-The earlier development label was `0.1.0-alpha`. No formal release is created by this documentation and resource update.
+Development version: `0.1.0-alpha`. See [STATUS.md](STATUS.md) for the current inventory and review status. Formal GitHub prerelease publication remains pending.
 
 ## Browse the framework
 
@@ -51,9 +51,14 @@ See the [framework directory](framework/README.md) for the seven domains and the
 - [License](LICENSE).
 - [Development and claims review record](docs/development-record.md).
 - [Archived setup materials](docs/project-setup/README.md).
-- [Framework design manuscript](FGCF_journal_article.md).
+- [Framework design working paper](FGCF_journal_article.md).
+- [Project citation](CITATION.cff).
+- [Synthetic worked examples](examples/README.md).
+- [Development roadmap](ROADMAP.md) and [change log](CHANGELOG.md).
+- [Practitioner review materials](docs/practitioner-review/README.md).
+- [Prepared alpha release notes](RELEASE_NOTES.md).
 
-The separate design manuscript remains a draft requiring its own factual and publication-status review. Its statements about validation, statistics, and outcomes are not verified project evidence. It should not be treated as proof of completed research or journal publication.
+The design working paper describes the current artifact and a proposed evaluation. Unsupported empirical claims from the earlier draft have been removed. It reports no completed participant study or effectiveness results and is not represented as a peer-reviewed journal publication.
 
 ## Intended users
 
@@ -103,4 +108,5 @@ Email: damoah.dao@gmail.com
 Questions and feedback: [GitHub Issues](https://github.com/damoahdao-cyber/federal-grant-compliance-framework/issues)
 
 Last updated: September 30, 2026.
+
 
