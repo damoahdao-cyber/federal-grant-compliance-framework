@@ -1,6 +1,6 @@
 # Proposed release: v0.1.0-alpha
 
-Publication status: prepared, not yet published as a GitHub release.
+Historical status as recorded when this release draft was prepared on September 30, 2026: not yet published as a GitHub release. This file preserves proposed alpha release text and does not independently verify whether a GitHub release was subsequently published. Check actual GitHub Releases and tag metadata for present publication status. These historical notes do not describe the Domain 2 development additions.
 
 Release title: **FGCF v0.1.0-alpha: Initial financial management resources**
 
