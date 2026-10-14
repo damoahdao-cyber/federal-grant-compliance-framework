@@ -23,7 +23,8 @@ The maintainer compared critical rules to federal sources and noted limitations.
 
 ## Automated / mechanical checks
 - The Domain 2 index and nine linked supporting Markdown files were fetched successfully.
-- Relative links within the Domain 2 resource set were resolved against expected repository paths, with no missing local targets in that scope.
+- Relative links within the Domain 2 resource set were resolved against expected repository paths, with no missing local targets in that scope. A second branch audit retrieved 20 changed/relevant files and checked 27 Domain 2 relative links, with zero unresolved targets in that set.
+- Added `scripts/validate_domain2_docs.py` and `.github/workflows/domain2-doc-checks.yml` to provide ongoing local-link, inventory, attribution and fixed-example integrity checks. The workflow was committed, but successful execution by GitHub Actions is not claimed without inspecting an actual job result.
 - Synthetic allocations recalculated: $900 + $600 = $1,500; $4,800 + $2,000 + $1,200 = $8,000.
 - All nine linked supporting Markdown documents include development status and CC BY 4.0 attribution.
 - Relevant source references were spot-checked for section identity; the entire set of offsite links has **not** been independently crawled with a reliable HTTP status report.
