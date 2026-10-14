@@ -7,7 +7,8 @@ This is an early resource-development project led by David Amoah Oduro. Release 
 | Area | Available now | Evidence still needed |
 | --- | --- | --- |
 | Domain 1: Financial Management and Reporting | One starter workbook, workbook instructions, and seven supporting guides or templates | Independent practitioner review, native spreadsheet application testing, operational testing |
-| Domain 2: Compliance Policies and Procedures | Six draft procedures, source register, four synthetic scenarios, review checklist | Practitioner review, award-specific adaptation, operational testing |\n| Domains 3 through 7 | Five planning pages | Operating resources and their review |
+| Domain 2: Compliance Policies and Procedures | Six draft procedures, source register, four synthetic scenarios, review checklist | Practitioner review, award-specific adaptation, operational testing |
+| Domains 3 through 7 | Five planning pages | Operating resources and their review |
 | Examples | Three Domain 1 synthetic worked examples plus four Domain 2 synthetic scenarios | User testing of instructions and procedures |
 | Design manuscript | Working paper describing the current design and a proposed evaluation | Peer review, evaluation data, publication evidence |
 | Authorship and licensing | Project lead identified in README and CITATION.cff, CC BY 4.0 license | Additional contributor attribution as contributions occur |
