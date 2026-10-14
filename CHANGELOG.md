@@ -1,8 +1,18 @@
 # Change log
 
+## Domain 2 0.2 development draft - October 13, 2026
+
+- Developed six draft procedures, a source register, four synthetic scenarios and a review checklist.
+- Clarified procurement recipient-type differences in 2 CFR 200.317 and the separate rules for elevated micro-purchase thresholds.
+- Clarified payroll support and records retention exceptions.
+- Updated the status language to distinguish historical release planning from verified current release metadata.
+- Recorded maintainer review in `docs/domain-2-maintainer-audit-2026-10-13.md`.
+- No independent practitioner review, field pilot, or new formal release claimed.
+
+
 ## Development package 0.1.0-alpha - September 30, 2026
 
-Formal GitHub prerelease publication is pending. This entry records repository development work.
+At the time of preparation, formal GitHub prerelease publication was pending. This entry records September 30 repository development work and does not establish subsequent publication status.
 
 - Added explicit development status and a project citation file.
 - Added three synthetic financial management examples.

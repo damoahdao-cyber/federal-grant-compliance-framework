@@ -1,0 +1,25 @@
+name: FGCF Domain 2 documentation checks
+
+on:
+  push:
+    paths:
+      - "framework/02-compliance-policies/**"
+      - "scripts/validate_domain2_docs.py"
+      - ".github/workflows/domain2-doc-checks.yml"
+  pull_request:
+    paths:
+      - "framework/02-compliance-policies/**"
+      - "scripts/validate_domain2_docs.py"
+      - ".github/workflows/domain2-doc-checks.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  documentation:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Validate Domain 2 files and internal links
+        run: python3 scripts/validate_domain2_docs.py

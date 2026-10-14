@@ -18,9 +18,9 @@ The workbook contains independent schedules for budget review, portfolio balance
 
 These checks establish limited calculation and document checks, rather than independent validation or demonstrated compliance outcomes. Practitioner review, operational testing, and pilot evaluation remain pending. No adoption or external review is claimed.
 
-Domains 2 through 7 currently contain planning pages. A folder or planning page does not constitute a completed domain.
+Domain 2 contains draft starter procedures and review tools as part of the 0.2 development work. Domains 3 through 7 contain planning pages. A folder or draft resource does not constitute a completed domain.
 
-Development version: `0.1.0-alpha`. See [STATUS.md](STATUS.md) for the current inventory and review status. Formal GitHub prerelease publication remains pending.
+Initial package designation: `0.1.0-alpha`; current work: `0.2 development` (not a published version designation). See [STATUS.md](STATUS.md) for the inventory and review status. September 2026 release notes were prepared for a GitHub prerelease, but present GitHub release publication cannot be established from these files. Check the [GitHub Releases page](https://github.com/damoahdao-cyber/federal-grant-compliance-framework/releases) and an exact tag before citing a formal GitHub release.
 
 ## Browse the framework
 
@@ -29,7 +29,7 @@ See the [framework directory](framework/README.md) for the seven domains and the
 | Domain | Available content |
 | --- | --- |
 | [1. Financial Management and Reporting](framework/01-financial-management/README.md) | Initial financial workbook, instructions, and seven supporting guides or templates. Practitioner review pending. |
-| [2. Compliance Policies and Procedures](framework/02-compliance-policies/README.md) | Development scope only |
+| [2. Compliance Policies and Procedures](framework/02-compliance-policies/README.md) | Six draft procedures and supporting tools, subject to review |
 | [3. Eligibility Verification and Program Management](framework/03-eligibility-program-management/README.md) | Development scope only |
 | [4. Reporting and Performance Management](framework/04-reporting-performance/README.md) | Development scope only |
 | [5. Subrecipient Monitoring](framework/05-subrecipient-monitoring/README.md) | Development scope only |
@@ -107,6 +107,6 @@ Project lead: David Amoah Oduro
 Email: damoah.dao@gmail.com  
 Questions and feedback: [GitHub Issues](https://github.com/damoahdao-cyber/federal-grant-compliance-framework/issues)
 
-Last updated: September 30, 2026.
+Last updated: October 13, 2026.
 
 
