@@ -27,7 +27,7 @@ Checked section identity and key operative distinctions for the following refere
 ## Mechanical review
 
 - Retrieved ten Domain 3 Markdown documents from the development branch.
-- Resolved relative cross-references against the expected repository files; no missing internal targets were found in this audited set.
+- Resolved relative cross-references against the expected repository files; no missing internal targets were found in this audited set. A subsequent branch-wide check retrieved 18 changed files, identified 84 internal references and found no unresolved internal target in the checked set.
 - Confirmed each of the ten Domain 3 Markdown documents contains CC BY 4.0 attribution.
 - Recalculated illustrative totals: 5 eligible + 2 pending + 1 ineligible = 8 total cases, 5/8 = 62.5%; 7 completed + 5 remaining = 12 planned sessions, 7/12 = 58.33% when rounded to two decimal places.
 - Checked the Domain 3 README index against the nine linked supporting Markdown resources.
@@ -39,6 +39,7 @@ Checked section identity and key operative distinctions for the following refere
 1. Replaced an unverified eCFR Appendix I URL with the known Appendix I citation hosted by Cornell Law School.
 2. Corrected the number of fictional scenarios in STATUS so they are not described as real eligibility cases.
 3. Corrected the ROADMAP description of Domain 2, already merged into the main branch.
+4. A full-document status scan detected an incomplete Domain 3 inventory label in STATUS; corrected it to identify six guides, the source register, four synthetic scenarios and the review checklist.
 
 ## Outstanding review before operational use
 
