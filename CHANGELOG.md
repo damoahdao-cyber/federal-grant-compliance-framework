@@ -1,5 +1,14 @@
 # Change log
 
+## Domain 3 0.2 development draft - October 13, 2026
+
+- Added six draft Domain 3 procedures, a regulatory applicability register, synthetic program examples and a structured reviewer checklist.
+- Separated applicant eligibility, program-specific participant eligibility, lower-tier transaction screening, and agency risk review responsibilities.
+- Linked award intake, participant file documentation, program performance monitoring and change-control workflows to relevant 2 CFR sources.
+- Added an inventory and local-link check script and GitHub Actions workflow, plus a dated maintainer audit.
+- No independent review, program deployment, field pilot, beneficiary screening result, or new release is claimed.
+
+
 ## Domain 2 0.2 development draft - October 13, 2026
 
 - Developed six draft procedures, a source register, four synthetic scenarios and a review checklist.
