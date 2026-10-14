@@ -18,9 +18,9 @@ The workbook contains independent schedules for budget review, portfolio balance
 
 These checks establish limited calculation and document checks, rather than independent validation or demonstrated compliance outcomes. Practitioner review, operational testing, and pilot evaluation remain pending. No adoption or external review is claimed.
 
-Domain 2 contains draft starter procedures and review tools on its development branch. Domains 3 through 7 contain planning pages. A folder or draft resource does not constitute a completed domain.
+Domain 2 contains draft starter procedures and review tools as part of the 0.2 development work. Domains 3 through 7 contain planning pages. A folder or draft resource does not constitute a completed domain.
 
-Development version: `0.1.0-alpha`. See [STATUS.md](STATUS.md) for the current inventory and review status. Formal GitHub prerelease publication remains pending.
+Initial package designation: `0.1.0-alpha`; current work: `0.2 development` (not a published version designation). See [STATUS.md](STATUS.md) for the inventory and review status. September 2026 release notes were prepared for a GitHub prerelease, but present GitHub release publication cannot be established from these files. Check the [GitHub Releases page](https://github.com/damoahdao-cyber/federal-grant-compliance-framework/releases) and an exact tag before citing a formal GitHub release.
 
 ## Browse the framework
 
@@ -107,6 +107,6 @@ Project lead: David Amoah Oduro
 Email: damoah.dao@gmail.com  
 Questions and feedback: [GitHub Issues](https://github.com/damoahdao-cyber/federal-grant-compliance-framework/issues)
 
-Last updated: September 30, 2026.
+Last updated: October 13, 2026.
 
 
