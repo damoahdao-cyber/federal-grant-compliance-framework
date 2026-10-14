@@ -6,12 +6,12 @@ Start with [Domain 1: Financial Management and Reporting](01-financial-managemen
 | --- | --- | --- |
 | 1. Financial Management and Reporting | [Browse resources](01-financial-management/README.md) | Initial starter resources available. Practitioner review pending. |
 | 2. Compliance Policies and Procedures | [Draft resources](02-compliance-policies/README.md) | Six draft procedures, a source register, synthetic scenarios, and review checklist. Practitioner review pending. |
-| 3. Eligibility Verification and Program Management | [Development scope](03-eligibility-program-management/README.md) | Planned. No operational resources published here. |
+| 3. Eligibility Verification and Program Management | [Draft resources](03-eligibility-program-management/README.md) | Six draft guides, source register, synthetic examples and review checklist. Practitioner review pending. |
 | 4. Reporting and Performance Management | [Development scope](04-reporting-performance/README.md) | Planned. No operational resources published here. |
 | 5. Subrecipient Monitoring | [Development scope](05-subrecipient-monitoring/README.md) | Planned. No operational resources published here. |
 | 6. Audit Readiness and Internal Controls | [Development scope](06-audit-internal-controls/README.md) | Planned. No operational resources published here. |
 | 7. Training and Capacity Building | [Development scope](07-training-capacity-building/README.md) | Planned. No operational resources published here. |
 
-Domains 3 through 7 remain planning pages. Domain 2 contains draft procedural starters, not externally reviewed institutional policies. Folder creation does not establish domain completion. All numerical examples in Domain 1 are synthetic.
+Domains 4 through 7 remain planning pages. Domains 2 and 3 contain draft procedures, not externally reviewed or institutionally adopted policies. Folder creation does not establish domain completion. All numerical examples in Domain 1 are synthetic.
 
 See the [main README](../README.md) for project status and [contribution guidelines](../CONTRIBUTING.md) for submissions. Project materials are offered under [CC BY 4.0](../LICENSE), subject to existing third-party and prior-license notices.
