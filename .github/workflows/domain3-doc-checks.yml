@@ -1,0 +1,24 @@
+name: FGCF Domain 3 documentation validation
+
+on:
+  push:
+    paths:
+      - "framework/03-eligibility-program-management/**"
+      - "scripts/validate_domain3_docs.py"
+      - ".github/workflows/domain3-doc-checks.yml"
+  pull_request:
+    paths:
+      - "framework/03-eligibility-program-management/**"
+      - "scripts/validate_domain3_docs.py"
+      - ".github/workflows/domain3-doc-checks.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  validate-documentation:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check Domain 3 inventory, attribution, links and examples
+        run: python3 scripts/validate_domain3_docs.py
