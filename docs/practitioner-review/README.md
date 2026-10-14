@@ -4,7 +4,7 @@ Status: review materials prepared. No independent review response or institution
 
 ## Review scope
 
-Review the initial Domain 1 resources, [workbook instructions](../../framework/01-financial-management/workbook-guide.md), and [synthetic examples](../../examples/synthetic-award-walkthrough.md). Record the exact commit or release reviewed. The other six domains are scope pages and should not be evaluated as completed operating resources.
+Review the initial Domain 1 resources, [workbook instructions](../../framework/01-financial-management/workbook-guide.md), and [synthetic examples](../../examples/synthetic-award-walkthrough.md). Record the exact commit or release reviewed. Domain 2 now includes unreviewed draft procedures. Domains 3 through 7 retain scope pages. None should be represented as completed or validated operating domains.
 
 Suggested reviewers have relevant experience in nonprofit finance, federal award administration, research administration, internal controls, or single audit preparation. Record their actual role and relevant experience with their permission. Disclose relationships with the project lead, participation in development, compensation, and other conflicts. Independence must be described accurately.
 
