@@ -10,6 +10,10 @@ As of September 30, 2026. These are proposed stages, not completed work or promi
 | 0.5 pilot | Plan and conduct a small feasibility evaluation with participating organizations | Protocol, permissions, appropriate ethics review determination, defined measures, baseline information, documented use and analysis |
 | 1.0 candidate | Consider a stable resource package with maintained regulatory mapping | Documented review coverage, reproducible examples, material issues resolved, maintenance ownership and change process, evidence-supported scope |
 
+## October 13, 2026 progress checkpoint
+
+The 0.2 development branch now contains six draft procedures for Domain 2, a source register, synthetic scenarios, and a review checklist. This is a maintainer drafting step, not a completed domain, independent review, or release. Obtain qualified practitioner feedback and document scope-specific testing before calling the package reviewed. Domain 1 independent review and native spreadsheet verification remain outstanding.
+
 ## Immediate priorities
 
 1. Verify formula and display behavior in supported native spreadsheet applications and record application/version details.
