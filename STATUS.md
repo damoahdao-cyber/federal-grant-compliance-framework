@@ -10,7 +10,7 @@ This is an early resource-development project led by David Amoah Oduro. Release 
 | Domain 2: Compliance Policies and Procedures | Six draft procedures, source register, four synthetic scenarios, review checklist | Practitioner review, award-specific adaptation, operational testing |
 | Domain 3: Eligibility Verification and Program Management | Six draft guides, rule and source registers, three? no | Practitioner and award-specific review, privacy and operational testing |
 | Domains 4 through 7 | Four planning pages | Operational resources and independent review |
-| Examples | Three Domain 1 synthetic worked examples, four Domain 2 scenarios and four Domain 3 fictional cases | User testing of instructions and procedures |
+| Examples | Three Domain 1 synthetic worked examples, four Domain 2 scenarios and four Domain 3 synthetic scenarios | User testing of instructions and procedures |
 | Design manuscript | Working paper describing the current design and a proposed evaluation | Peer review, evaluation data, publication evidence |
 | Authorship and licensing | Project lead identified in README and CITATION.cff, CC BY 4.0 license | Additional contributor attribution as contributions occur |
 | Quality checks | Previously documented Domain 1 workbook checks; Domain 2 citation and arithmetic desk review; Domain 3 draft checks described in `docs/domain-3-maintainer-audit-2026-10-13.md` | Independent review, operational validation and remaining external-link checks |
